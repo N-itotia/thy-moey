@@ -1,0 +1,7 @@
+<?php
+$db = mysqli_connect('localhost', 'root', '', 'diabetes_patient_details');
+if (mysqli_connect_errno()) {
+echo 'Error: Could not connect to database. please try again';
+exit;
+}
+?>

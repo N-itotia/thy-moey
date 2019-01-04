@@ -1,0 +1,11 @@
+njage san do the following:
+1. make the login form and a signup form I guess using sha5 encoding
+2. find a way to connect all the tables using the KSNUM or phone number(kisumu specialist number).
+3. the doctor should be able to input a patients details into every field.
+4. the css and javascript can be removed and you can add yours if you need
+5. there is a part i've not added (Screen for diabetic complications annually or as indicated)
+i'll add it after you're done.
+6. The doctor said if the system is functional she can propose it to other doctors so that they can also get their s for their own clinics(each doctor does their own clinic their own way).
+ 
+ I was having problems with the database because I used a unique key for the ksnum. you can alter it if possible kindly. check if the functions work properly to.
+Call if clarification is needed.

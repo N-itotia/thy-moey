@@ -1,0 +1,11 @@
+			<!DOCTYPE>
+			<html>
+			<link rel="stylesheet" type="text/css" href="css/style.css"
+			<div class="menu">
+				  <a href="patientDetails.php">Patient Details</a> 
+				  <a href="">Risk Factors</a> 
+				  <a href="">Lifestyle Changes</a> 
+				  <a href="">Self Management</a> 
+				  <a href="">Visits</a>
+				
+			</div> 			

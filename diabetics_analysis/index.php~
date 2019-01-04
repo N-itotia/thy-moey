@@ -1,0 +1,37 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Patient Form</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+		<body>
+			<h2>Diabetic System Setup</h2>
+				<div class="menu">
+				  <a href="">Patient Details</a> 
+				  <a href="">Risk Factors</a> 
+				  <a href="">Lifestyle Changes</a> 
+				  <a href="">Self Management</a> 
+				  <a href="">Visits</a>
+				
+			</div>
+			
+			<form action="details.php" method="post">
+				<label>Patient Name:<input type="text" size="50"></input></label><br></br>
+			
+				<label>KS Number<input type="number" size="39"/></label><br/>
+				
+				<label>Diabetes Type: 
+					<select>
+						<option value="Type 1">Type 1</option>
+						<option value="Type 2">Type 2</option>
+					</select>
+				</label><br/>
+				
+				<label>Date of Birth<input type="date"/></label><br/>
+				
+				<label>Date of Diagnosis<input type="date" /></label>
+			
+			</form>
+			
+		</body>
+</html>
